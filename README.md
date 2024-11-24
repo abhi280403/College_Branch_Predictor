@@ -35,7 +35,7 @@ Follow these steps to set up JoSAA-Data-Analyzer locally:
 2. Change to the project directory:
 
    ```bash
-   cd JoSAA-Data-Analyzer
+   cd College_Branch_Predictor
    ```
 
 3. Create a virtual environment:
@@ -66,7 +66,7 @@ Follow these steps to set up JoSAA-Data-Analyzer locally:
 
 6. Access the application:
 
-   Open a web browser and go to `http://localhost:8000` to access the JoSAA-Data-Analyzer locally.
+   Open a web browser and go to `http://localhost:8000` to access the College_Branch_Predictor locally.
 
 ## Usage
 
