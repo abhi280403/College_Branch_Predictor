@@ -1,5 +1,5 @@
 
-# JoSAA-Data-Analyzer
+# College_Branch_Predictor
 
 JoSAA-Data-Analyzer is a Django web application that predicts the chances of admission into Indian Institutes of Technology (IITs) based on JEE Advanced scores.
 
