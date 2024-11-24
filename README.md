@@ -1,7 +1,7 @@
 
 # College_Branch_Predictor
 
-JoSAA-Data-Analyzer is a Django web application that predicts the chances of admission into Indian Institutes of Technology (IITs) based on JEE Advanced scores.
+College_Branch_Predictor is a Django web application that predicts the chances of admission into Indian Institutes of Technology (IITs) based on JEE Advanced scores.
 
 ## Features
 
